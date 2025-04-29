@@ -8,7 +8,7 @@ This document describes a customized penetration testing lab designed to simulat
 - **OS Version:** Windows 10
 - **Objective:** Initial Access and Privilege Escalation
 - **Target IP:** Must be discovered during enumeration
-- **Download:** [Windows 1 Image](https://drive.google.com/file/d/1rmAwfpPhged1awDP3cQTB0d4OJVEj-_h/view?usp=sharing)
+- **Download:** [Windows 1 Image](https://drive.google.com/file/d/12vErA_VWcPTrUxufWvmeVwFqj8By2s-p/view?usp=sharing)
 
 ---
 

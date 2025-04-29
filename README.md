@@ -32,7 +32,7 @@ This document describes a customized penetration testing lab designed to simulat
 - **OS Version:** Windows Server 2022
 - **Objective:** Initial Access and Domain Enumeration
 - **Target IP:** `10.5.5.1`
-- **Download:** [AD DC Image](https://drive.google.com/file/d/11LhQKp6cqnxvaI1SQDFnoGG2XK9gVqY9/view?usp=sharing)
+- **Download:** [AD DC Image](https://drive.google.com/file/d/147FPYesLQuJuyWX13tme9UneITzaoRNC/view?usp=sharing)
 
 > ⚡ **Note:** If access is gained, you can connect via **RDP** (Remote Desktop Protocol).
 
